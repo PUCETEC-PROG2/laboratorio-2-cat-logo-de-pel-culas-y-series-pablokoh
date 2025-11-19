@@ -142,9 +142,9 @@ laboratorio-2/
 - [x] Código correctamente indentado
 - [x] Archivos organizados en carpetas
 - [x] Rutas relativas correctas
-- [x] Publicado en GitHub Pages
-
-## 📖 Fuentes y Referencias
+- [ ] Publicado en GitHub Pages PENDIENTE
+Profe pablo comento un error no podremos realizar lo de git hub pages por el momento
+##  📖 Fuentes y Referencias
 
 ### Recursos Multimedia:
 - **Imágenes:** Portadas oficiales de anime y películas
