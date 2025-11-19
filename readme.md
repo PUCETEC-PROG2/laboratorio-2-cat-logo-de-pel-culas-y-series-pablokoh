@@ -118,87 +118,6 @@ laboratorio-2/
         └── So Im a Spider So What.mp3
 ```
 
----
-
-## 🎨 Recursos Multimedia Utilizados
-
-### ✅ Imágenes (9/9)
-- Todas las portadas están presentes
-- Cada imagen tiene texto alternativo para accesibilidad
-- Formato: JPG
-- Fuente: Portadas oficiales de anime
-
-### ✅ Videos (9/9)
-- Todos los tráilers están presentes y funcionando
-- Formato: MP4
-- Controles integrados para reproducción
-- Fuente: Tráilers oficiales de YouTube (uso educativo)
-
-### ✅ Audio (9/9)
-- Todas las bandas sonoras están presentes
-- Formato: MP3
-- Controles integrados para reproducción
-- Fuente: Música de anime oficial y libre de derechos
-
----
-
-## 🚀 GitHub Pages
-
-**🔗 URL del sitio:** [Pendiente de publicación]
-
-### Pasos para publicar:
-1. Ve a **Settings** > **Pages** en el repositorio de GitHub
-2. En "**Source**", selecciona "**main**" como branch
-3. Haz clic en **Save** y espera 2-3 minutos
-4. La URL aparecerá en la parte superior
-5. Actualiza este README con la URL generada
-
----
-
-## ✅ Requisitos Completados
-
-### Estructura HTML5 Semántica ✅ (20/20 pts)
-- [x] Uso correcto de `<header>` en las 3 páginas
-- [x] Implementación de `<nav>` con enlaces funcionales
-- [x] Uso apropiado de `<section>` para dividir contenido
-- [x] Uso de `<footer>` en todas las páginas
-- [x] Estructura `<main>` correcta
-
-### Contenido y Listas ✅ (30/30 pts)
-- [x] Párrafos `<p>` descriptivos con sinopsis
-- [x] Listas no ordenadas `<ul>` para características
-- [x] Listas ordenadas `<ol>` para rankings
-- [x] 4 películas completas en movies.html
-- [x] 5 series completas en series.html (1 extra)
-
-### Elementos Multimedia ✅ (30/30 pts)
-- [x] 9 videos con controles funcionando
-- [x] 9 audios con controles funcionando
-- [x] 9 imágenes con textos alternativos
-- [x] Todos los elementos multimedia operativos
-
-### Navegación y Organización ✅ (20/20 pts)
-- [x] Enlaces funcionales entre las 3 páginas
-- [x] Rutas relativas correctas
-- [x] Organización clara de archivos en carpetas
-- [x] Código HTML bien indentado
-- [x] Repositorio en GitHub configurado
-
----
-
-## 📊 Puntuación del Proyecto
-
-| Categoría | Puntaje Máximo | Puntaje Obtenido |
-|-----------|----------------|------------------|
-| Estructura HTML5 | 20 pts | ✅ 20 pts |
-| Contenido y listas | 30 pts | ✅ 30 pts |
-| Elementos multimedia | 30 pts | ✅ 30 pts |
-| Navegación y publicación | 20 pts | ⚠️ 15 pts* |
-| **TOTAL** | **100 pts** | **95 pts** |
-
-*Se perderán 5 pts si no se publica en GitHub Pages antes de la entrega.
-
----
 
 ## 📚 Tecnologías Utilizadas
 
@@ -223,9 +142,7 @@ laboratorio-2/
 - [x] Código correctamente indentado
 - [x] Archivos organizados en carpetas
 - [x] Rutas relativas correctas
-- [ ] Publicado en GitHub Pages (PENDIENTE)
-
----
+- [x] Publicado en GitHub Pages
 
 ## 📖 Fuentes y Referencias
 
@@ -239,36 +156,5 @@ laboratorio-2/
 - [MDN - Elemento Video](https://developer.mozilla.org/es/docs/Web/HTML/Element/video)
 - [MDN - Elemento Audio](https://developer.mozilla.org/es/docs/Web/HTML/Element/audio)
 
----
-
-## 👨‍💻 Información del Autor
-
-**Nombre:** Pablo Puentes  
-**Institución:** Pontificia Universidad Católica del Ecuador (PUCE)  
-**Curso:** Desarrollo Web - Lab 2  
-**Docente:** Pablo Pérez Martínez  
-**Año:** 2025
-
----
-
-## 📝 Notas Adicionales
-
-- Todos los recursos multimedia tienen licencias apropiadas para uso educativo
-- El proyecto cumple con todos los requisitos técnicos del Lab 2
-- Se agregó una serie extra (5 en lugar de 4) para demostrar comprensión
-- El código está validado y funciona correctamente en navegadores modernos
-
----
-
-## 🎯 Próximos Pasos
-
-1. **URGENTE:** Publicar el sitio en GitHub Pages
-2. Actualizar este README con la URL del sitio publicado
-3. Verificar que todos los recursos carguen correctamente en GitHub Pages
-4. Hacer commit y push de los cambios finales
-5. Entregar el enlace del repositorio al profesor
-
----
-
 **Última actualización:** Noviembre 19, 2025  
-**Estado del proyecto:** ✅ COMPLETO (pendiente publicación GitHub Pages)
+**Estado del proyecto:** ✅
